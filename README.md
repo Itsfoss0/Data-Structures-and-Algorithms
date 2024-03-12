@@ -157,6 +157,13 @@ Steps to contribute in this repository
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
+        <a href=https://github.com/Itsfoss0>
+            <img src=https://avatars.githubusercontent.com/u/105123601?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ebenezer R. />
+            <br />
+            <sub style="font-size:14px"><b>Ebenezer R. </b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/varunnitian>
             <img src=https://avatars.githubusercontent.com/u/98322627?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=varun jain/>
             <br />
@@ -170,6 +177,8 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>rohansrivastava5491</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/RYANRANAUT>
             <img src=https://avatars.githubusercontent.com/u/53706931?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=RYANRANAUT/>
@@ -177,8 +186,6 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>RYANRANAUT</b></sub>
         </a>
     </td>
-</tr>
-<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/mercapto-003>
             <img src=https://avatars.githubusercontent.com/u/72151785?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mercapto/>
@@ -214,20 +221,13 @@ Steps to contribute in this repository
             <sub style="font-size:14px"><b>Shiva Abhishek</b></sub>
         </a>
     </td>
+</tr>
+<tr>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
         <a href=https://github.com/DarkSpy25>
             <img src=https://avatars.githubusercontent.com/u/70094695?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ankita Patil/>
             <br />
             <sub style="font-size:14px"><b>Ankita Patil</b></sub>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
-        <a href=https://github.com/Itsfoss0>
-            <img src=https://avatars.githubusercontent.com/u/105123601?v=4 width="100;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Ebenezer R. />
-            <br />
-            <sub style="font-size:14px"><b>Ebenezer R. </b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 150.0; height: 150.0">
